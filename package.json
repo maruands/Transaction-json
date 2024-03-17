@@ -1,0 +1,23 @@
+{
+  "name": "bankingapp-mock-api",
+  "version": "1.0.0",
+  "description": "#### Prerequisite * Create a folder ``` mkdir <projectname>-mock-api cd <projectname>-mock-api ```",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maruands/JSON-SERVER.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maruands/JSON-SERVER/issues"
+  },
+  "homepage": "https://github.com/maruands/JSON-SERVER#readme"
+}
